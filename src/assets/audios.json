@@ -1,0 +1,178 @@
+{
+  "AUDIOS": [
+    {
+      "id":1,
+      "src": "https://www.myinstants.com/media/sounds/num-vai-levar-nao.mp3",
+      "artistId":2,
+      "title": "CANALHA"
+    },
+    {
+      "id":2,
+      "src": "https://www.myinstants.com/media/sounds/aaah-meu-pc.mp3",
+      "artistId":8,
+      "title": "AAH O MEU PC"
+    },
+    {
+      "id":3,
+      "src": "https://www.myinstants.com/media/sounds/lolita.mp3",
+      "artistId":1,
+      "title": "VEM CA LOLITA"
+    },
+    {
+      "id":4,
+      "src": "https://www.myinstants.com/media/sounds/masculinity-alert-tema.mp3",
+      "artistId":9,
+      "title": "Masculinity Alert"
+    },
+    {
+      "id":5,
+      "src": "https://www.myinstants.com/media/sounds/sam-fisher.mp3",
+      "artistId":1,
+      "title": "Sam Fisher!"
+    },
+    {
+      "id":6,
+      "src": "https://www.myinstants.com/media/sounds/jovem-nerd-caraca.mp3",
+      "artistId":1,
+      "title": "CARACA!"
+    },
+    {
+      "id":7,
+      "src": "https://www.myinstants.com/media/sounds/lambda-lambda.mp3",
+      "artistId":1,
+      "title": "Lambda Lambda Lambda"
+    },
+    {
+      "id":8,
+      "src": "https://www.myinstants.com/media/sounds/porque-eu-sou-burro.mp3",
+      "artistId":4,
+      "title": "Eu sou Burro"
+    },
+    {
+      "id":9,
+      "src": "https://www.myinstants.com/media/sounds/nerdcast_288_papo_de_gordo.mp3",
+      "artistId":4,
+      "title": "Fazer o que quiser"
+    },
+    {
+      "id":10,
+      "src": "https://www.myinstants.com/media/sounds/untitled-session-1_mixdown_SxQXMob.mp3",
+      "artistId":4,
+      "title": "Animal"
+    },
+    {
+      "id":11,
+      "src": "https://www.myinstants.com/media/sounds/na-tua-cabeca.mp3",
+      "artistId":1,
+      "title": "Headshot"
+    },
+    {
+      "id":12,
+      "src": "https://www.myinstants.com/media/sounds/babaca_2.mp3",
+      "artistId":2,
+      "title": "Tu é Babaca Cara!"
+    },
+	  {
+      "id":13,
+      "src": "https://www.myinstants.com/media/sounds/untitled_865.mp3",
+      "artistId":2,
+      "title": "Azaghal sem palavras"
+    },
+    {
+      "id":14,
+      "src": "https://www.myinstants.com/media/sounds/eu-sou-formado-na-vida.mp3",
+      "artistId":2,
+      "title": "Eu sou formado na vida!"
+    },
+	  {
+      "id":15,
+      "src": "https://www.myinstants.com/media/sounds/vintteeee-puta-qui-pariuuu.mp3",
+      "artistId":2,
+      "title": "VINTEEEE!"
+    },
+    {
+      "id":16,
+      "src": "https://www.myinstants.com/media/sounds/tem-potencial.mp3",
+      "artistId":4,
+      "title": "Eh... Isso vai ser bom"
+    },
+    {
+      "id":17,
+      "src": "https://www.myinstants.com/media/sounds/ajuda-seu-babaca.mp3",
+      "artistId":2,
+      "title": "Ajuda ele seu babaca!"
+    },
+    {
+      "id":18,
+      "src": "https://www.myinstants.com/media/sounds/ozob.mp3",
+      "artistId":2,
+      "title": "Ozob revoltado"
+    },
+	  {
+      "id":19,
+      "src": "https://www.myinstants.com/media/sounds/milhoes.mp3",
+      "artistId":4,
+      "title": "Milhões!"
+    },
+    {
+      "id":20,
+      "src": "https://www.myinstants.com/media/sounds/untitled_750-mp3cut.mp3",
+      "artistId":4,
+      "title": "Caguei!"
+    },
+ 	  {
+      "id":21,
+      "src": "https://www.myinstants.com/media/sounds/gaveta-funk.mp3",
+      "artistId":3,
+      "title": "Funk!"
+    },
+    {
+      "id":22,
+      "src": "https://www.myinstants.com/media/sounds/foda-se-gaveta-filmes.mp3",
+      "artistId":3,
+      "title": "F*da-se"
+    },
+    {
+      "id":23,
+      "src": "https://www.myinstants.com/media/sounds/abertura-nerd-office.mp3",
+      "artistId":9,
+      "title": "Abertura Nerdoffice"
+    },
+    {
+      "id":24,
+      "src": "https://www.myinstants.com/media/sounds/untitled_1137.mp3",
+      "artistId":1,
+      "title": "O Poder da Matematica!"
+    },
+    {
+      "id":25,
+      "src": "https://www.myinstants.com/media/sounds/raios.mp3",
+      "artistId":1,
+      "title": "Cruza os raios cara!"
+    },
+    {
+      "id":26,
+      "src": "https://www.myinstants.com/media/sounds/predador-dourado.mp3",
+      "artistId":1,
+      "title": "Predador Dourado"
+    },
+    {
+      "id":27,
+      "src": "https://www.myinstants.com/media/sounds/beto-barreira.mp3",
+      "artistId":1,
+      "title": "Beto Barreira"
+    },
+    {
+      "id":28,
+      "src": "https://www.myinstants.com/media/sounds/vazando-da-favela-nerdplayer-126-mp3cut.mp3",
+      "artistId":2,
+      "title": "Gritinho"
+    },
+    {
+      "id":29,
+      "src": "https://www.myinstants.com/media/sounds/max-payne-3-vazando-da-favela-nerdplayer-126-mp3cut.mp3",
+      "artistId":2,
+      "title": "Why don't you die!"
+    }
+  ]
+}

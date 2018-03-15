@@ -1,0 +1,59 @@
+{
+    "ARTISTS": [
+      {
+        "id":1,
+        "name": "JOVEM NERD",
+        "occupation": "Caster",
+        "img": "assets/imgs/artists/jn.png"
+      },
+      {
+        "id":2,
+        "name": "AZAGHAL",
+        "occupation": "Caster",
+        "img": "assets/imgs/artists/azaghal.png"
+      },
+      {
+        "id":3,
+        "name": "GAVETA",
+        "occupation": "Caster",
+        "img": "assets/imgs/artists/gaveta.png"
+      },
+      {
+        "id":4,
+        "name": "SR. K",
+        "occupation": "Caster",
+        "img": "assets/imgs/artists/srk.png"
+      },
+      {
+        "id":5,
+        "name": "SRA. JN",
+        "occupation": "Caster",
+        "img": "assets/imgs/artists/srajn.png"
+      },
+      {
+        "id":6,
+        "name": "PORTUGUESA",
+        "occupation": "Caster",
+        "img": "assets/imgs/artists/portuguesa.png"
+      },
+      {
+        "id":7,
+        "name": "EDUARDO SPOHR",
+        "occupation": "Caster",
+        "img": "assets/imgs/artists/spohr.png"
+      },
+      {
+        "id":8,
+        "name": "CASTERS",
+        "occupation": "Caster",
+        "img": "assets/imgs/artists/cast.png"
+      },
+      {
+        "id":9,
+        "name": "VINHETAS",
+        "occupation": "Caster",
+        "img": "assets/imgs/artists/vinhetas.png"
+      }
+    ]
+  }
+  
