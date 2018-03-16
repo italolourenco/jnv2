@@ -3,7 +3,7 @@ import { PopoverController } from 'ionic-angular';
 import { LoadingController } from 'ionic-angular';
 import { Artist } from '../../models/artist.model';
 import { ArtistService } from '../../services/artists/artist.service';
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { NavController, NavParams } from 'ionic-angular';
 import { ArtistDetailComponent } from '../artists-detail/artist-detail';
 
 @Component({

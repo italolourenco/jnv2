@@ -5,7 +5,9 @@ export class Audio {
   private src: string;
   private title: string;
 
-  constructor(id: number, artistId, src: string, title: string) {
+  constructor(id: number, artistId: number, src: string, title: string) {
+    this.id = id;
+    this.artistId = artistId;
     this.src = src;
     this.title = title;
   }

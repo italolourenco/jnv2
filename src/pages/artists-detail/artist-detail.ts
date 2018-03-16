@@ -3,7 +3,7 @@ import { PopoverController } from 'ionic-angular';
 import { LoadingController } from 'ionic-angular';
 import { Artist } from '../../models/artist.model';
 import { ArtistService } from '../../services/artists/artist.service';
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { NavController, NavParams } from 'ionic-angular';
 import { ArtistComponent } from '../artists/artist';
 import { PlayerComponent } from '../player/player';
 import { MemesComponent } from '../memes/memes';
@@ -14,7 +14,8 @@ import { MemesComponent } from '../memes/memes';
 })
 export class ArtistDetailComponent {
 
-  artist = null;
+  artist: Artist = null;
+  parms = null;
 
   tab1Root: any = PlayerComponent;
   tab2Root: any = MemesComponent;
@@ -23,6 +24,9 @@ export class ArtistDetailComponent {
 
   constructor(public popoverCtrl: PopoverController, public loadingCtrl: LoadingController, private artistService: ArtistService, public navCtrl: NavController, public navParams: NavParams) {
     this.artist = this.navParams.get('artist');
+    console.log(this.artist);
+    this.parms = {artistId: this.artist.getId()};
+    console.log(this.parms)
   }
 
 

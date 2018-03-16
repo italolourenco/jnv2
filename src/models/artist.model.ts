@@ -6,6 +6,7 @@ export class Artist {
     private img: string;
   
     constructor(id: number,name: string, occupation: string, img: string) {
+      this.id = id;
       this.name = name;
       this.occupation = occupation;
       this.img = img;
